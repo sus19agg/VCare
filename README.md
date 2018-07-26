@@ -1,5 +1,5 @@
 # VCare
-An ambulance service android application made  using MIT AppInventor
+An ambulance service android application made  using MIT App Inventor
 
 Please find the ppt file attached in the repo to get information about my project :)
 Import the .aia file into the MIT App Inventor website and then run the application using MIT App inventor's compiler.
